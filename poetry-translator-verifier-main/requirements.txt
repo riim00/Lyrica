@@ -1,0 +1,10 @@
+streamlit
+deep-translator
+ply
+SpeechRecognition
+difflib
+re
+openai
+requests
+Pillow
+langdetect
