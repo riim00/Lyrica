@@ -1,4 +1,4 @@
-# Lyrica Translate
+# 🎼 Lyrica Translate
 
 Lyrica Translate is an advanced tool designed to analyze and translate poems and songs while preserving their structure, meaning, and cultural richness. It aims to promote cross-cultural communication and understanding by making literary works accessible to a wider audience.
 
@@ -73,7 +73,7 @@ bash
 - pip install -r requirements.txt
 
 
-## Launch the Streamlit application::
+## Launch the Streamlit application:
 - streamlit run poetry-translator-verifier.py
 
 ## Team
